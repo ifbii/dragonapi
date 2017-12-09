@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd TshAkEapi
+cd dragonapi
 red() {
   printf '\e[1;31m%s\n\e[0;39;49m' "$@"
 }
@@ -18,43 +18,43 @@ Dev() {
 aa() {
  sudo apt-get install
 }
-function logo1_TshAkE() {
-green "     »»             Welcome to TshAkE APi bot                       ««      "
+function logo1_dragon() {
+green "     »»             Welcome to dragon APi bot                       ««      "
 green "     »»               I install it for you                          ««      "
 yellow ""
 yellow ""
 yellow ""
-yellow "           _____    _        _    _    _____    "
-yellow "          |_   _|__| |__    / \  | | _| ____|   "
-yellow "            | |/ __| '_ \  / _ \ | |/ /  _|     "
-yellow "            | |\__ \ | | |/ ___ \|   <| |___    "
-yellow "            |_||___/_| |_/_/   \_\_|\_\_____|   "
+yellow "          "
+yellow "       "
+yellow "            "
+yellow "       "
+yellow "         "
 yellow "                                          "
 yellow ""
 }
-function logo2_TshAkE() {
+function logo2_dragon() {
 yellow ""
 yellow ""
 yellow ""
-yellow "           _____    _        _    _    _____    "
-yellow "          |_   _|__| |__    / \  | | _| ____|   "
-yellow "            | |/ __| '_ \  / _ \ | |/ /  _|     "
-yellow "            | |\__ \ | | |/ ___ \|   <| |___    "
-yellow "            |_||___/_| |_/_/   \_\_|\_\_____|   "
+yellow "           "
+yellow "           "
+yellow "             "
+yellow "           "
+yellow "           "
 yellow "                                          "
 yellow ""
 yellow ""
-Dev    "            Dev @lIMyIl"
-Dev    "            Dev @EMADOFFICAL"
-Dev    "            Dev @IX00XI"
-Dev    "            Dev @H_173"
-Dev    "            Dev @lIESIl"
-Dev    "            Dev @h_k_a"
+Dev    "            Dev @x_nbot"
+Dev    "            Dev @x_nbot"
+Dev    "            Dev @x_nbot"
+Dev    "            Dev @irq3bot"
+Dev    "            Dev @irq3bot"
+Dev    "            Dev @irq3bot"
 yellow ""
 yellow ""
-green "     »»           TshAkE APi successfully installed                 ««      "
+green "     »»           dragon APi successfully installed                 ««      "
 green "     »»            Run this command for launch bot                  ««      "
-red   "     »»                   ./TSHAKE.sh                               ««      "
+red   "     »»                   ./dragon.sh                               ««      "
 }
 function install_TshAkE() {
 sudo apt-get update
@@ -78,7 +78,7 @@ sudo apt-get upgrade -y
 sudo apt-get dist-upgrade -y
 
 }
-function VICTOR_TshAkE() {
+function SAMER_dragon() {
 wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  tar zxpf luarocks-2.2.2.tar.gz
  rm luarocks-2.2.2.tar.gz
@@ -106,21 +106,20 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo pip install redis
  cd ..
 }
-function MOODY_TshAkE() {
- cd TshAkEapi
+function SAMER_dragon() {
+ cd dragonapi
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
 }
-function chmod_TshAkE() {
+function chmod_dragon() {
  chmod +x tg
- chmod +x TSHAKE.sh
- chmod +x TSHAKE-Auto.sh
+ chmod +x dragon.sh
+ chmod +x dragon-Auto.sh
 }
 
-logo1_TshAkE
-install_TshAkE
-VICTOR_TshAkE
-MOODY_TshAkE
-chmod_TshAkE
-logo2_TshAkE
+logo1_dragon
+install_dragon
+SAMER_dragon
+chmod_dragon
+logo2_dragon
