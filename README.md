@@ -1,20 +1,20 @@
-• TshAkE Source  
+• Dragon Source  
 
 • BEST SOURCE ON TELEGRAM
 
 ֆ • • • • • • • • • • • • • ֆ
 
-• لتنصيب سورس تشاكي ع تيجي الجديد ع التوكن 
+• لتنصيب سورس التنين ع تيجي الجديد ع التوكن 
 
 ֆ • • • • • • • • • • • • • ֆ
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/ifbii/dragonapi
 
 • انتر وراه حط •
 
-cd TshAkEapi
+cd dragonapi
 
 • وانتر وراه حط •
 
@@ -28,7 +28,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/ifbii/dragonapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
@@ -36,7 +36,7 @@ git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x in
 
 • من يخلص التنصيب تفتح ملف 
 
-TSHAKE.sh
+dragon.sh
 
 • وتحط التوكن بهل طريقه 
 
@@ -58,7 +58,7 @@ redis-server
 
 • وراه تسوي رن من ملف 
 
-TSHAKE-auto.sh
+dragon-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
@@ -72,14 +72,17 @@ redis-server
 
 • بعده اسوي رن من ملف 
 
-TSHAKE-auto.sh
+dragon-auto.sh
 
 ֆ • • • • • • • • • • • • • ֆ
 
-• ومبروك نصبت سورس تشاكي 
+• ومبروك نصبت سورس التنين 
 
 • تيجي الجديد ع التوكن 💛 •
 
-ᶜʰ @TshAkETEAM
+ᶜʰ @TVBIO
+ᶜʰ @TOBTV
+ᶜʰ @MUSIQIRQ
 
-ᵇᵒᵗ @TSHELPBOT
+ᵇᵒᵗ @X_NBOT
+ᵇᵒᵗ @IRQ3BOT
