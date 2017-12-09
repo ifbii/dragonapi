@@ -28,7 +28,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/ifbii/dragonapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/ifbii/dragonapi && cd dragonapi && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
