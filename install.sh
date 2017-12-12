@@ -106,7 +106,7 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo pip install redis
  cd ..
 }
-function SAMER_dragon() {
+function SAMEER_dragon() {
  cd dragonapi
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
@@ -121,5 +121,6 @@ function chmod_dragon() {
 logo1_dragon
 install_dragon
 SAMER_dragon
+SAMEER_dragon
 chmod_dragon
 logo2_dragon
