@@ -56,7 +56,7 @@ green "     »»           dragon APi successfully installed                 «�
 green "     »»            Run this command for launch bot                  ««      "
 red   "     »»                   ./dragon.sh                               ««      "
 }
-function install_TshAkE() {
+function install_dragon() {
 sudo apt-get update
 
 sudo apt-get upgrade -y
